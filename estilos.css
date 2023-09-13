@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    background-color: black;
+    overflow: hidden;
+
+}
+
+
+video {
+    width: 100%;
+position: absolute;
+left: 0;
+top: 0;
+z-index: -1
+}
+
+h3{
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    padding-left: 5rem;
+}
+
+
+h1 {
+    font-family: Arial;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+     margin-top: 10rem;
+    margin-left: 5rem;
+}
+
+
+.menu{
+  position: absolute;
+  right: 50px;
+  top: 30px;
+  
+}
+
+footer{
+
+    bottom: 0;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.h3{
+    margin-top: -3rem;
+
+}
+
+.boton {
+background-color: #fff;
+padding: 15px 30px;
+color: black;
+border-radius: 3px;
+text-transform: uppercase;
+margin-left: 90px;
+font-family: Arial;
+
+
+}
+
+.facebook{
+    margin-right: 20px;
+    filter: invert();
+}
+.twitter{
+    margin-right: 20px;
+    filter: invert();
+}
+
+.instagram{
+    margin-right: 20px;
+    filter: invert();
+}
+
